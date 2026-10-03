@@ -1,0 +1,16 @@
+{
+  "domain": "purobot_timeline",
+  "name": "Purobot Event Timeline",
+  "version": "1.0.4",
+  "documentation": "https://github.com/jpark40/ha-purobot-timeline",
+  "dependencies": [
+    "http",
+    "image"
+  ],
+  "codeowners": [
+    "@jpark40"
+  ],
+  "requirements": [],
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/jpark40/ha-purobot-timeline/issues"
+}

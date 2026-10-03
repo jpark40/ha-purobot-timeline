@@ -1,0 +1,8 @@
+# Merge this top-level block into /config/configuration.yaml.
+purobot_timeline:
+  directory: /media/purobot_timeline
+  visit_entity: image.purobot_max_pro_2_last_visit_event
+  toilet_entity: image.purobot_max_pro_2_last_toileting_event
+  capture_current_on_startup: true
+  retention_days: 30
+  max_storage_mb: 2048
